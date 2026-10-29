@@ -64,5 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Clarity is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by gradient-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://www.adoptclarity.com/
+Clarity provides AI‑powered meeting transcription and note‑taking software that captures every detail of conversations, automatically generates follow‑up emails, action items, and insights. The platform integrates with popular CRMs, Slack, and email, offering customizable templates to extract targeted information from calls. Designed for sales, product, fundraising, recruiting, and other teams, Clarity helps users stay engaged during meetings while the AI records and organizes content, ensuring no important point is missed.
+
+**Areas:** Company · AI · Meeting-Transcription · Productivity · Sales
+
+## Clarity on APIs.io
+
+Everything profiled for Clarity is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/adoptclarity-com/](https://apis.io/providers/adoptclarity-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Clarity API](https://apis.io/apis/adoptclarity-com/clarity-api/) — API for Clarity meeting transcription platform
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Adoptclarity Com Domain Security](https://apis.io/security/adoptclarity-com/adoptclarity-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.adoptclarity.com/)
+- [Documentation](https://www.adoptclarity.com/about)
+- [Getting started](https://docs.adoptclarity.com/setup/mac-app)
+- [API reference](https://docs.adoptclarity.com/llms.txt)
+- [Pricing](https://www.adoptclarity.com/pricing)
+- [Blog](https://www.adoptclarity.com/blog)
+- [Terms of service](https://app.adoptclarity.com/static/terms_of_service.pdf)
+- [Privacy policy](https://app.adoptclarity.com/static/privacy_policy.html)
+
+## API Evangelist rating
+
+**Kin Score 18.7** — emerging · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 31.6 |
+
+**Agent readiness 30.4** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adoptclarity-com/](https://apis.io/providers/adoptclarity-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Clarity: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/adoptclarity-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
